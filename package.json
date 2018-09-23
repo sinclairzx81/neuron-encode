@@ -1,0 +1,22 @@
+{
+  "name": "neuron-encode",
+  "version": "1.0.0",
+  "description": "neural network auto encoder exploring latent space.",
+  "scripts": {
+    "clean": "node tasks clean",
+    "build": "node tasks build",
+    "start": "node tasks start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinclairzx81/neuron-encode"
+  },
+  "author": "sinclairzx81",
+  "license": "MIT",
+  "devDependencies": {
+    "fsweb": "^0.8.6",
+    "shx": "^0.2.2",
+    "typescript": "^2.4.2",
+    "typescript-bundle": "^0.8.6"
+  }
+}

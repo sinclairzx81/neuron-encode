@@ -1,0 +1,41 @@
+html, body {
+  font-family: 'Courier New', Courier, monospace
+}
+#container {
+  width: 100%;
+  height: 100%;
+}
+
+#left {
+  width: 164px;
+  height: 192px;
+  float:left;
+}
+
+#canvas-left {
+  border: 1px solid; 
+  width: 128px; 
+  height: 128px;
+}
+
+#middle {
+  width: 164px;
+  height: 192px;
+  float:left;
+}
+#canvas-middle {
+  border: 1px solid; 
+  width: 128px; 
+  height: 128px;
+}
+
+#right {
+  width: 164px;
+  height: 192px;
+  float:left;
+}
+#canvas-right {
+  border: 1px solid; 
+  width: 128px; 
+  height: 128px;
+}
